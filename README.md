@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip Amakye
 - 👀 I’m interested in DevOps and System Design
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java / Spring boot
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 Reach me via : philamakye@gmail.com
 
